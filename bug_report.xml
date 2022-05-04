@@ -1,0 +1,9 @@
+<xml>
+  <ID>1</ID>
+  <Title_Button>Play_runs_into_button_Pause</Title_Button>
+  <Environment>Windows 10 x64, Google Chrome v. 100.0.4896.127"</Environment>
+  <Priority>Medium</Priority>
+  <Severity>Major</Severity>
+  <Description>STR: 1. Open music.player EXR: 3 buttons play, pause, stop located next to each other Result: Button 'Play' runs into button 'Pause'</Description>
+  <Attachment>screenshot.png</Attachment>
+  <Author>Salnikova_J.</Author>
